@@ -1,6 +1,6 @@
 ![](http://www.freeimagehosting.net/newuploads/f37dy.png)
 
-# Exercises created during "Modern OpenGL with openFrameworks workshop" by Arturo Castro
+### Exercises created during "Modern OpenGL with openFrameworks workshop" by Arturo Castro
 
 ZZZINC (Barcelona) 26, 27, 28 of April 2013
 http://zzzinc.net/2013/opengl-y-openframeworks/
@@ -12,4 +12,4 @@ Although at ﬁrst not having some of the old functionality can seem complex, on
 
 - - --
 
-*These exercises were written while I took part in the workshop as a student. Even though they may be incomplete or not fully explained I have tried to comment on all the important steps in the code. As I´m OSX user they contain only XCODE project files butt should compile in any platform.*
+*These exercises were written while I took part in the workshop as a student. Even though they may be incomplete or not fully explained I have tried to comment on all the important steps in the code. As I´m OSX user they contain only XCODE project files but should compile in any platform.*
