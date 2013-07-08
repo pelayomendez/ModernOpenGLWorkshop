@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list",
+				"listImages"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Pelayo/Library/Application Support/Sublime Text 2/Packages/User/OF.sublime-build",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/testApp.cpp",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Pelayo/Desktop/iPad360/rcipad/Classes/Hotspot3D.as",
+			"settings":
+			{
+				"buffer_size": 5454,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/OF.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/cursoGL/matrices/matrices.sublime-workspace",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/resources/GWENtest/gwentest",
+		"/Users/Pelayo/Library/Application Support/Sublime Text 2/Packages/User/OF.sublime-build",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx9/wlcFx9.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx9/wlcFx9.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/examples/graphics/imageLoaderExample/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx6/wlcFx6.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx6/wlcFx6.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/fluids_lines/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/addons/ofxQuartzComposition/examples/ofxQuartzComposition demo/src/testApp.mm",
+		"/Users/Pelayo/Downloads/texto1.xml",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx4/wlcFx4.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx4/wlcFx4.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx3/wlcFx3.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx3/wlcFx3.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx2/wlcFx2.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/Eco/baseApp/src/wlcFx/fx2/wlcFx2.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/examples/gl/fboTrailsExample/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/examples/gl/fboTrailsExample/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/nameBouncer/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/particulas_flores/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/particulas_flores/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/nameBouncer/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketches/draw_web/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/addons/ofxSyphon/example/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/addons/ofxSyphon/example/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketchs/flying_ribbons/src/testApp.cpp",
+		"/Users/Pelayo/Downloads/ofZach-ofxTriangleMesh-bae4ad4/example/meshExample/src/testApp.h",
+		"/Users/Pelayo/Downloads/ofZach-ofxTriangleMesh-bae4ad4/example/meshExample/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/myApps/ofxKinectMeshRecorder/bin/data/scripts/blender2.6/Mesh2VertexFacesImport.py",
+		"/Users/Pelayo/Documents/of_0071_osx_release/apps/Babilonia2/ofxKinectMeshRecorder/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/addons/ofxDelaunay/example-simplePoints/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/addons/ofxDelaunay/example-simplePoints/src/testApp.h",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketchs/testSnake/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/sketchs/testSnake/src/testApp.h",
+		"/Users/Pelayo/Desktop/testBasic/src/testApp.h",
+		"/Users/Pelayo/Desktop/testBasic/src/testApp.cpp",
+		"/Users/Pelayo/Downloads/taller 3/xml/TALLER_03_02.xml",
+		"/Users/Pelayo/Desktop/testBasic/src/olwBvh.h",
+		"/Users/Pelayo/Desktop/testBasic/src/olwBvh.cpp",
+		"/Users/Pelayo/Documents/Multimedia/imgsentenceJS/example/demo.html",
+		"/Users/Pelayo/Documents/Multimedia/imgsentenceJS/css/default.css",
+		"/Users/Pelayo/Documents/Multimedia/imgsentenceJS/src/imgsentenceJS.js",
+		"/Users/Pelayo/Desktop/html5canvasVJ-1/examples/css/style.css",
+		"/Users/Pelayo/Desktop/html5canvasVJ/examples/css/v5vj.css",
+		"/Users/Pelayo/Desktop/html5canvasVJ/examples/v5vj.html",
+		"/Volumes/PENDRIVE/WWW/ROCA LOVES THE PLANET/www/css/main.min.css",
+		"/Volumes/PENDRIVE/WWW/ROCA LOVES THE PLANET/www/js/main.min.js",
+		"/Volumes/PENDRIVE/WWW/ROCA LOVES THE PLANET/www/index.html",
+		"/Users/Pelayo/Downloads/filters/js/filters.js",
+		"/Users/Pelayo/Documents/Multimedia/wlc_wptheme/js/engine/main.js",
+		"/Users/Pelayo/Documents/of_0071_osx_release/apps/Babilonia_Munich/wlcTerreno3D/src/testApp.cpp",
+		"/Users/Pelayo/Documents/of_0071_osx_release/apps/Babilonia_Munich/wlcTerreno3D/src/testApp.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"paramFadeOutSpeed",
+			"fadeOut",
+			"modX",
+			"showBackground",
+			"detectionRadius",
+			"verticalSpeed",
+			"lineHeight",
+			"ofeve",
+			"ofEvent",
+			"\"onMessageReceived\"",
+			"radialNoiseDemoR",
+			"drawWiggleWidth",
+			"noiseStep",
+			"radialNoiseCursor",
+			"poly",
+			"skip",
+			"idx",
+			"dataURL",
+			"canvaslive",
+			"var A",
+			"active",
+			"filter",
+			"radius",
+			"position",
+			"guiEvent",
+			"validX",
+			"handleUniverseData",
+			"mClient",
+			"ValidaPunto",
+			"validX",
+			"escenaMidi",
+			"counter",
+			"ef"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Pelayo/Library/Application Support/Sublime Text 2/Packages/User/OF.sublime-build",
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/testApp.cpp",
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Pelayo/Desktop/iPad360/rcipad/Classes/Hotspot3D.as",
+					"settings":
+					{
+						"buffer_size": 5454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3611,
+								3611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Pelayo/Documents/of_v0.7.4_osx_release/apps/resources/GWENtest/emptyExample.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
