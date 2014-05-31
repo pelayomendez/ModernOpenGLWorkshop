@@ -1,4 +1,4 @@
-![](http://www.freeimagehosting.net/newuploads/f37dy.png)
+![](https://raw.githubusercontent.com/pelayomendez/ModernOpenGLWorkshop/master/ModerOPenGlWorkshop.png)
 
 ### Exercises created during "Modern OpenGL with openFrameworks workshop" by Arturo Castro
 
